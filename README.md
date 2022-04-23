@@ -6,4 +6,4 @@ To create a secure password, the user clicks generate password. A series of prom
 
 ![Here is a photo of the application.](./Assets/03-javascript-homework-demo.png)
 
-Here is the URL to my web application: 
+Here is the URL to my web application: https://eliamart.github.io/PasswordGenerator/
